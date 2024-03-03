@@ -467,29 +467,29 @@ main {
 }
 
 .click {
-    background-image: url(../img/click.svg);
+    background-image: url(./assets/click.svg);
 }
 
 .cart {
-    background-image: url(../img/cart.svg);
+    background-image: url(./assets/cart.svg);
 }
 
 .right {
-    background-image: url(../img/right.svg);
+    background-image: url(./assets/right.svg);
 }
 
 .app-google {
     width: 171px;
     height: 43px;
     display: block;
-    background: url(../img/google-play.png) no-repeat center;
+    background: url(./assets/google-play.png) no-repeat center;
 }
 
 .app-store {
     width: 162px;
     height: 43px;
     display: block;
-    background: url(../img/app-store.png) no-repeat center;
+    background: url(./assets/app-store.png) no-repeat center;
 }
 
 .app-block {
